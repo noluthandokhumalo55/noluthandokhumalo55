@@ -2,7 +2,7 @@
 Hi there! I’m a passionate tech enthusiast with a Bachelor’s degree in Computer Science and in Application Development, eager to create meaningful software solutions and dive deeper into the world of data.
 
 💻 Tech Stack:
-Languages: Kotlin, Python, Java, JavaScript, C#
+Languages: Kotlin, Python, Java, JavaScript, C# , HTML/CSS
 
 Frameworks & Tools: ASP.NET Core, Android, React, Node.js
 
