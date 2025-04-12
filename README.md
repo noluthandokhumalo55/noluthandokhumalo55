@@ -12,7 +12,7 @@ Languages: Kotlin, Python, Java, JavaScript, C# , HTML/CSS
 
 - **Other:** Git, CI/CD, REST APIs, Data Visualization (Power BI)
 
----
+
 ## 📊 Interests:
 
 - Strong interest in Data Science & Analysis – turning data into insights that drive real impact.
