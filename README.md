@@ -2,7 +2,7 @@
 Hi there! I’m a passionate tech enthusiast with a Bachelor’s degree in Computer Science and Application Development. I enjoy building meaningful software through personal full-stack projects, exploring the world of data, and expanding my skills in cloud and DevOps technologies. Eager to grow within innovative teams, contribute to impactful solutions, and shape the future with code and curiosity.
 
 ## 💻 Tech Stack:
-Languages: Kotlin, Python, Java, JavaScript, C# , HTML/CSS
+- **Languages:** Kotlin, Python, Java, JavaScript, C# , HTML/CSS
 
 - **Frameworks & Tools:** ASP.NET Core, Android, React, Node.js
 
